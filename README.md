@@ -22,6 +22,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ### Old recordings
 
+- [United States Navy Training Media: Basic Mechanisms in Fire Control Computers (Part 1)](https://www.youtube.com/watch?v=mpkTHyfr0pM) [Part 2](https://www.youtube.com/watch?v=-F7m02XDfvE) [Part 3](https://www.youtube.com/watch?v=JXYPgseaUOY) [Part 4](https://www.youtube.com/watch?v=xVkvr_CoyvI) [Part 5](https://www.youtube.com/watch?v=xPVbwJd0Hhs) [Part 6](https://www.youtube.com/watch?v=GZI-PydfsQs) [Part 7](https://www.youtube.com/watch?v=tha2ejeMAJU) (1953)
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 - [Xerox Parc - Office Alto Commercial](https://www.youtube.com/watch?v=M0zgj2p7Ww4) (1972)
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
